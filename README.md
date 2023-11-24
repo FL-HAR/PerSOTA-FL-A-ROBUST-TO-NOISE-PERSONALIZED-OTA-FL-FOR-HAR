@@ -2,6 +2,8 @@
 
 This is the official code for the submitted paper PerSOTA FL: A ROBUST-TO-NOISE PERSONALIZED OVER THE AIR FEDERATED LEARNING FOR HUMAN ACTIVITY RECOGNITION. For now, the code only works on HARBAX dataset. we will keep updating the code in the upcoming days.
 
+Update: the proposed PerSOTA FL can now be tested on both in-distribution test data (saved as local test accuracy) and out-of-distribution test data (saved as general test accuracy).
+
 
 ## Requirements
 Please install the following packages before running ``` main.py``` .
