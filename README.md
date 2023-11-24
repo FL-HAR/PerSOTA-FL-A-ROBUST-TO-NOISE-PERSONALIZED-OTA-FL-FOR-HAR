@@ -21,16 +21,12 @@ Or, ```PerSOTA_FL_notebook``` in google colab.
 
 ## Some Results
 <p align="center">
-  <img src="imgs/Acc_VS_rounds_local.png" width="400">
+  <img src="imgs/Acc_VS_rounds_local.jpg" width="400">
    <em>image_caption</em>
 </p>
 
 <p align="center">
-   <img src="imgs/example.png" width="800">
-</p>
-
-<p align="center">
-  <img src="imgs/fig4.png" width="800">
+   <img src="imgs/Acc_VS_rounds_local_2.jpg" width="800">
 </p>
 
 # Citation
