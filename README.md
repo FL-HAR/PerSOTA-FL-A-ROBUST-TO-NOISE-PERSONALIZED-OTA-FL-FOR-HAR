@@ -17,11 +17,12 @@ Second, go to ```\utils\dataset.py``` and find the function ``` load_HARboX_data
 
 Finally, run the following code that specifies the report path, number of local updates, number of rounds, the SNR, The number of receivers and the personalization parameter.
 ```
-python main.py --save_path 'report' --E 3  --R 400 --SNR 5 --N_r 100 --alpha 0.5
+python main.py --save_path 'report' --E 3  --R 120 --SNR 5 --N_r 100 --alpha 0.5
 ```
 Or, ```PerSOTA_FL_notebook``` in google colab.
 
 ## Some Results
+ The results are with the following setting ```python main.py --save_path 'report' --E 3  --R 120 --SNR 5 --N_r 100 --alpha 0.8```
 <p align="center">
   <img src="imgs/Acc_VS_rounds_local.jpg" width="400">
   
