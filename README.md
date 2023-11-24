@@ -21,7 +21,7 @@ Or, ```PerSOTA_FL_notebook``` in google colab.
 
 ## Some Results
 <p align="center">
-  <img src="imgs/graph_ex.png" width="400">
+  <img src="imgs/Acc_VS_rounds_local.png" width="400">
    <em>image_caption</em>
 </p>
 
