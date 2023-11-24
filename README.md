@@ -6,7 +6,7 @@ This is the official code for the submitted paper PerSOTA FL: A ROBUST-TO-NOISE 
 ## Requirements
 Please install the following packages before running ``` main.py``` .
 ```
-!pip install ??
+!pip install tensorflow==2.10
 ```
 ## How to run
 First, download the HARBOX dataset from [Here]([https://pages.github.com/](https://github.com/xmouyang/FL-Datasets-for-HAR)). Click on the dropbox list and download ```Large_Scale_HARBox.zip```.
