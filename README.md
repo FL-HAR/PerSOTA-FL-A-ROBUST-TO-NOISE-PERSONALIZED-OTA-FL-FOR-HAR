@@ -1,6 +1,6 @@
 # PerSOTA: A Robust-To-Noise Personalized Over The Air Federated Learning for Human Activity Recognition
 
-
+This is the official code for the submitted paper PerSOTA FL: A ROBUST-TO-NOISE PERSONALIZED OVER THE AIR FEDERATED LEARNING FOR HUMAN ACTIVITY RECOGNITION. For now, the code only works on HARBAX dataset. we will keep updating the code in the upcoming days.
 
 
 ## Requirements
@@ -22,7 +22,7 @@ Or, ```PerSOTA_FL_notebook``` in google colab.
 ## Some Results
 <p align="center">
   <img src="imgs/Acc_VS_rounds_local.jpg" width="400">
-   <em>image_caption</em>
+  
 </p>
 
 <p align="center">
